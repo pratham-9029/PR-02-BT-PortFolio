@@ -28,11 +28,3 @@ This project showcases my skills, projects, and personal branding in a clean and
 
 ---
 
-## 🚀 Getting Started  
-
-Follow these steps to set up the project locally:  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/pratham-9029/PR-02-BT-PortFolio.git
-
